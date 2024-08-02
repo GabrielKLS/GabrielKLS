@@ -1,14 +1,7 @@
-# João Gabriel
+# Gabriel Fonseca
 
 ## About Me
 Hello! My name is João Gabriel. I am studying Computer Science at the Federal University of Cariri and I am a game development enthusiast. I have a great interest in learning and creating innovative projects in the technology field, especially in game development.
-
-## Projects
-### Arcamsolum
-- **Description**: A resident evil like game on Unreal Engine 5.
-- **Features**:
-  - wip
-- **Technologies**: Unreal
 
 ## Skills
 - Programming: C#, Java, Python
