@@ -8,7 +8,7 @@ Hello! My name is João Gabriel. I am studying Computer Science at the Federal U
 - Game Development: Unity, Unreal Engine
 - Others: Git, Blender, Photoshop, Substance Painter
 
-- English, Spanish, Portuguese
+- Languages: English, Spanish, Portuguese
 
 ## Contact
 - **Email**: [joaoalebit@gmail.com](mailto:joaoalebit@gmail.com)
