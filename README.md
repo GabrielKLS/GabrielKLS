@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name is João Gabriel. I am studying Computer Science at the Federal University of Cariri and I am a game development enthusiast. I have a great interest in learning and creating innovative projects in the technology field, especially in game development.</p>
+<p align="left">Hello! My name is João Gabriel, and I’m studying Computer Science at the Federal University of Cariri. I have a deep enthusiasm for game development and am constantly seeking to learn and create innovative tech projects.</p>
 
 ###
 
